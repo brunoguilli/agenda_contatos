@@ -1,0 +1,4 @@
+#Sun Feb 16 10:39:17 BRT 2020
+base.0=/Users/brunoliberali/AndroidStudioProjects/agenda_de_contatos/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
